@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroRetrofitDemo</string>
+    <string name="write_num">请填写号码</string>
+</resources>
